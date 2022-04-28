@@ -1,5 +1,11 @@
+Create, read, update, delete app built with React
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/405bd38e-d9d8-4de7-af85-c5fa429ba101/deploy-status)](https://app.netlify.com/sites/stately-choux-3f7dea/deploys)
+
+Screenshot
+
+![Screen Shot 2022-04-28 at 3 51 59 PM](https://user-images.githubusercontent.com/84670853/165834671-10877307-56dc-4877-be78-22db8df79be3.jpeg)
+
+
 
 # Getting Started with Create React App
 
